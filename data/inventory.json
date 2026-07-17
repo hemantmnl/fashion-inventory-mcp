@@ -1,0 +1,6781 @@
+[
+  {
+    "sku": "FSH-1001",
+    "name": "Black Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 29.0,
+    "stock": 0,
+    "material": "cotton",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual black everyday runner made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1002",
+    "name": "Navy Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 32.25,
+    "stock": 5,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart navy everyday runner made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1003",
+    "name": "White Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 35.5,
+    "stock": 10,
+    "material": "denim",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport white everyday runner made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1004",
+    "name": "Beige Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 38.75,
+    "stock": 15,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor beige everyday runner made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1005",
+    "name": "Green Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 42.0,
+    "stock": 20,
+    "material": "wool blend",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A minimal green everyday runner made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1006",
+    "name": "Red Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 45.25,
+    "stock": 25,
+    "material": "nylon",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A streetwear red everyday runner made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1007",
+    "name": "Grey Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 48.5,
+    "stock": 30,
+    "material": "cotton",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual grey everyday runner made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1008",
+    "name": "Blue Everyday Runner",
+    "category": "shoes",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 51.75,
+    "stock": 4,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart blue everyday runner made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1009",
+    "name": "Black Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 41.0,
+    "stock": 7,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart black urban lace shoe made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1010",
+    "name": "Navy Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 44.25,
+    "stock": 12,
+    "material": "denim",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport navy urban lace shoe made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1011",
+    "name": "White Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 47.5,
+    "stock": 17,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor white urban lace shoe made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1012",
+    "name": "Beige Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 50.75,
+    "stock": 22,
+    "material": "wool blend",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A minimal beige urban lace shoe made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1013",
+    "name": "Green Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 54.0,
+    "stock": 27,
+    "material": "nylon",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A streetwear green urban lace shoe made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1014",
+    "name": "Red Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 57.25,
+    "stock": 1,
+    "material": "cotton",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual red urban lace shoe made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1015",
+    "name": "Grey Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 60.5,
+    "stock": 6,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart grey urban lace shoe made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1016",
+    "name": "Blue Urban Lace Shoe",
+    "category": "shoes",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 63.75,
+    "stock": 11,
+    "material": "denim",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport blue urban lace shoe made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1017",
+    "name": "Black Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 53.0,
+    "stock": 14,
+    "material": "denim",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport black comfort walker made from denim for all-season wear."
+  },
+  {
+    "sku": "FSH-1018",
+    "name": "Navy Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 56.25,
+    "stock": 19,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor navy comfort walker made from linen for spring wear."
+  },
+  {
+    "sku": "FSH-1019",
+    "name": "White Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 59.5,
+    "stock": 24,
+    "material": "wool blend",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "breathable"
+    ],
+    "description": "A minimal white comfort walker made from wool blend for summer wear."
+  },
+  {
+    "sku": "FSH-1020",
+    "name": "Beige Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 62.75,
+    "stock": 29,
+    "material": "nylon",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "insulated"
+    ],
+    "description": "A streetwear beige comfort walker made from nylon for autumn wear."
+  },
+  {
+    "sku": "FSH-1021",
+    "name": "Green Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 66.0,
+    "stock": 3,
+    "material": "cotton",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual green comfort walker made from cotton for winter wear."
+  },
+  {
+    "sku": "FSH-1022",
+    "name": "Red Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 69.25,
+    "stock": 8,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart red comfort walker made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1023",
+    "name": "Grey Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 72.5,
+    "stock": 13,
+    "material": "denim",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport grey comfort walker made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1024",
+    "name": "Blue Comfort Walker",
+    "category": "shoes",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 75.75,
+    "stock": 18,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor blue comfort walker made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1025",
+    "name": "Black Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 36.5,
+    "stock": 11,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport black street sneaker made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1026",
+    "name": "Navy Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 39.75,
+    "stock": 16,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor navy street sneaker made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1027",
+    "name": "White Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 43.0,
+    "stock": 21,
+    "material": "linen",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal white street sneaker made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1028",
+    "name": "Beige Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 46.25,
+    "stock": 26,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear beige street sneaker made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1029",
+    "name": "Green Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 49.5,
+    "stock": 0,
+    "material": "nylon",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A casual green street sneaker made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1030",
+    "name": "Red Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 52.75,
+    "stock": 5,
+    "material": "cotton",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A smart red street sneaker made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1031",
+    "name": "Grey Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 56.0,
+    "stock": 10,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport grey street sneaker made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1032",
+    "name": "Blue Street Sneaker",
+    "category": "sneakers",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 59.25,
+    "stock": 15,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor blue street sneaker made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1033",
+    "name": "Black Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 48.5,
+    "stock": 18,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor black court trainer made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1034",
+    "name": "Navy Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 51.75,
+    "stock": 23,
+    "material": "linen",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal navy court trainer made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1035",
+    "name": "White Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 55.0,
+    "stock": 28,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear white court trainer made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1036",
+    "name": "Beige Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 58.25,
+    "stock": 2,
+    "material": "nylon",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A casual beige court trainer made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1037",
+    "name": "Green Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 61.5,
+    "stock": 7,
+    "material": "cotton",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A smart green court trainer made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1038",
+    "name": "Red Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 64.75,
+    "stock": 12,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport red court trainer made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1039",
+    "name": "Grey Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 68.0,
+    "stock": 17,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor grey court trainer made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1040",
+    "name": "Blue Court Trainer",
+    "category": "sneakers",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 71.25,
+    "stock": 22,
+    "material": "linen",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal blue court trainer made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1041",
+    "name": "Black Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 60.5,
+    "stock": 25,
+    "material": "linen",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal black retro runner made from linen for spring wear."
+  },
+  {
+    "sku": "FSH-1042",
+    "name": "Navy Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 63.75,
+    "stock": 30,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear navy retro runner made from wool blend for summer wear."
+  },
+  {
+    "sku": "FSH-1043",
+    "name": "White Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 67.0,
+    "stock": 4,
+    "material": "nylon",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "insulated"
+    ],
+    "description": "A casual white retro runner made from nylon for autumn wear."
+  },
+  {
+    "sku": "FSH-1044",
+    "name": "Beige Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 70.25,
+    "stock": 9,
+    "material": "cotton",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A smart beige retro runner made from cotton for winter wear."
+  },
+  {
+    "sku": "FSH-1045",
+    "name": "Green Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 73.5,
+    "stock": 14,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport green retro runner made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1046",
+    "name": "Red Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 76.75,
+    "stock": 19,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor red retro runner made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1047",
+    "name": "Grey Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 80.0,
+    "stock": 24,
+    "material": "linen",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal grey retro runner made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1048",
+    "name": "Blue Retro Runner",
+    "category": "sneakers",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 83.25,
+    "stock": 29,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear blue retro runner made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1049",
+    "name": "Black Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 44.0,
+    "stock": 22,
+    "material": "denim",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal black chelsea boot made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1050",
+    "name": "Navy Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 47.25,
+    "stock": 27,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear navy chelsea boot made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1051",
+    "name": "White Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 50.5,
+    "stock": 1,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual white chelsea boot made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1052",
+    "name": "Beige Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 53.75,
+    "stock": 6,
+    "material": "nylon",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A smart beige chelsea boot made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1053",
+    "name": "Green Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 57.0,
+    "stock": 11,
+    "material": "cotton",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A sport green chelsea boot made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1054",
+    "name": "Red Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 60.25,
+    "stock": 16,
+    "material": "recycled polyester",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A outdoor red chelsea boot made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1055",
+    "name": "Grey Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 63.5,
+    "stock": 21,
+    "material": "denim",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal grey chelsea boot made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1056",
+    "name": "Blue Chelsea Boot",
+    "category": "boots",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 66.75,
+    "stock": 26,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear blue chelsea boot made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1057",
+    "name": "Black Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 56.0,
+    "stock": 29,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear black trail boot made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1058",
+    "name": "Navy Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 59.25,
+    "stock": 3,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual navy trail boot made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1059",
+    "name": "White Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 62.5,
+    "stock": 8,
+    "material": "nylon",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A smart white trail boot made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1060",
+    "name": "Beige Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 65.75,
+    "stock": 13,
+    "material": "cotton",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A sport beige trail boot made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1061",
+    "name": "Green Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 69.0,
+    "stock": 18,
+    "material": "recycled polyester",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A outdoor green trail boot made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1062",
+    "name": "Red Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 72.25,
+    "stock": 23,
+    "material": "denim",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal red trail boot made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1063",
+    "name": "Grey Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 75.5,
+    "stock": 28,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear grey trail boot made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1064",
+    "name": "Blue Trail Boot",
+    "category": "boots",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 78.75,
+    "stock": 2,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual blue trail boot made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1065",
+    "name": "Black City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 68.0,
+    "stock": 5,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual black city ankle boot made from wool blend for summer wear."
+  },
+  {
+    "sku": "FSH-1066",
+    "name": "Navy City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 71.25,
+    "stock": 10,
+    "material": "nylon",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A smart navy city ankle boot made from nylon for autumn wear."
+  },
+  {
+    "sku": "FSH-1067",
+    "name": "White City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 74.5,
+    "stock": 15,
+    "material": "cotton",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A sport white city ankle boot made from cotton for winter wear."
+  },
+  {
+    "sku": "FSH-1068",
+    "name": "Beige City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 77.75,
+    "stock": 20,
+    "material": "recycled polyester",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A outdoor beige city ankle boot made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1069",
+    "name": "Green City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 81.0,
+    "stock": 25,
+    "material": "denim",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal green city ankle boot made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1070",
+    "name": "Red City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 84.25,
+    "stock": 30,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear red city ankle boot made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1071",
+    "name": "Grey City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 87.5,
+    "stock": 4,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual grey city ankle boot made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1072",
+    "name": "Blue City Ankle Boot",
+    "category": "boots",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "price_eur": 90.75,
+    "stock": 9,
+    "material": "nylon",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A smart blue city ankle boot made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1073",
+    "name": "Black Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 51.5,
+    "stock": 2,
+    "material": "linen",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual black tailored pants made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1074",
+    "name": "Navy Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 54.75,
+    "stock": 7,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart navy tailored pants made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1075",
+    "name": "White Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 58.0,
+    "stock": 12,
+    "material": "nylon",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport white tailored pants made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1076",
+    "name": "Beige Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 61.25,
+    "stock": 17,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor beige tailored pants made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1077",
+    "name": "Green Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 64.5,
+    "stock": 22,
+    "material": "recycled polyester",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A minimal green tailored pants made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1078",
+    "name": "Red Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 67.75,
+    "stock": 27,
+    "material": "denim",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A streetwear red tailored pants made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1079",
+    "name": "Grey Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 71.0,
+    "stock": 1,
+    "material": "linen",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual grey tailored pants made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1080",
+    "name": "Blue Tailored Pants",
+    "category": "pants",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 74.25,
+    "stock": 6,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart blue tailored pants made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1081",
+    "name": "Black Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 63.5,
+    "stock": 9,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart black relaxed chino made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1082",
+    "name": "Navy Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 66.75,
+    "stock": 14,
+    "material": "nylon",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport navy relaxed chino made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1083",
+    "name": "White Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 70.0,
+    "stock": 19,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor white relaxed chino made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1084",
+    "name": "Beige Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 73.25,
+    "stock": 24,
+    "material": "recycled polyester",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A minimal beige relaxed chino made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1085",
+    "name": "Green Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 76.5,
+    "stock": 29,
+    "material": "denim",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A streetwear green relaxed chino made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1086",
+    "name": "Red Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 79.75,
+    "stock": 3,
+    "material": "linen",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual red relaxed chino made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1087",
+    "name": "Grey Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 83.0,
+    "stock": 8,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart grey relaxed chino made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1088",
+    "name": "Blue Relaxed Chino",
+    "category": "pants",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 86.25,
+    "stock": 13,
+    "material": "nylon",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport blue relaxed chino made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1089",
+    "name": "Black Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 75.5,
+    "stock": 16,
+    "material": "nylon",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport black cargo pants made from nylon for autumn wear."
+  },
+  {
+    "sku": "FSH-1090",
+    "name": "Navy Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 78.75,
+    "stock": 21,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor navy cargo pants made from cotton for winter wear."
+  },
+  {
+    "sku": "FSH-1091",
+    "name": "White Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 82.0,
+    "stock": 26,
+    "material": "recycled polyester",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A minimal white cargo pants made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1092",
+    "name": "Beige Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 85.25,
+    "stock": 0,
+    "material": "denim",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A streetwear beige cargo pants made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1093",
+    "name": "Green Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 88.5,
+    "stock": 5,
+    "material": "linen",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual green cargo pants made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1094",
+    "name": "Red Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 91.75,
+    "stock": 10,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart red cargo pants made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1095",
+    "name": "Grey Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 95.0,
+    "stock": 15,
+    "material": "nylon",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport grey cargo pants made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1096",
+    "name": "Blue Cargo Pants",
+    "category": "pants",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 98.25,
+    "stock": 20,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor blue cargo pants made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1097",
+    "name": "Black Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 59.0,
+    "stock": 13,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport black oxford shirt made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1098",
+    "name": "Navy Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 62.25,
+    "stock": 18,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor navy oxford shirt made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1099",
+    "name": "White Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 65.5,
+    "stock": 23,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal white oxford shirt made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1100",
+    "name": "Beige Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 68.75,
+    "stock": 28,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear beige oxford shirt made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1101",
+    "name": "Green Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 72.0,
+    "stock": 2,
+    "material": "denim",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A casual green oxford shirt made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1102",
+    "name": "Red Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 75.25,
+    "stock": 7,
+    "material": "linen",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A smart red oxford shirt made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1103",
+    "name": "Grey Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 78.5,
+    "stock": 12,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport grey oxford shirt made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1104",
+    "name": "Blue Oxford Shirt",
+    "category": "shirts",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 81.75,
+    "stock": 17,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor blue oxford shirt made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1105",
+    "name": "Black Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 71.0,
+    "stock": 20,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor black casual shirt made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1106",
+    "name": "Navy Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 74.25,
+    "stock": 25,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal navy casual shirt made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1107",
+    "name": "White Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 77.5,
+    "stock": 30,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear white casual shirt made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1108",
+    "name": "Beige Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 80.75,
+    "stock": 4,
+    "material": "denim",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A casual beige casual shirt made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1109",
+    "name": "Green Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 84.0,
+    "stock": 9,
+    "material": "linen",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A smart green casual shirt made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1110",
+    "name": "Red Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 87.25,
+    "stock": 14,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport red casual shirt made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1111",
+    "name": "Grey Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 90.5,
+    "stock": 19,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor grey casual shirt made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1112",
+    "name": "Blue Casual Shirt",
+    "category": "shirts",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 93.75,
+    "stock": 24,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal blue casual shirt made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1113",
+    "name": "Black Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 83.0,
+    "stock": 27,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal black linen shirt made from cotton for winter wear."
+  },
+  {
+    "sku": "FSH-1114",
+    "name": "Navy Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 86.25,
+    "stock": 1,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear navy linen shirt made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1115",
+    "name": "White Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 89.5,
+    "stock": 6,
+    "material": "denim",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A casual white linen shirt made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1116",
+    "name": "Beige Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 92.75,
+    "stock": 11,
+    "material": "linen",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A smart beige linen shirt made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1117",
+    "name": "Green Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 96.0,
+    "stock": 16,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport green linen shirt made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1118",
+    "name": "Red Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 99.25,
+    "stock": 21,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor red linen shirt made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1119",
+    "name": "Grey Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 102.5,
+    "stock": 26,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal grey linen shirt made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1120",
+    "name": "Blue Linen Shirt",
+    "category": "shirts",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 105.75,
+    "stock": 0,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear blue linen shirt made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1121",
+    "name": "Black Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 66.5,
+    "stock": 24,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A minimal black rain jacket made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1122",
+    "name": "Navy Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 69.75,
+    "stock": 29,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear navy rain jacket made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1123",
+    "name": "White Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 73.0,
+    "stock": 3,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual white rain jacket made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1124",
+    "name": "Beige Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 76.25,
+    "stock": 8,
+    "material": "denim",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart beige rain jacket made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1125",
+    "name": "Green Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 79.5,
+    "stock": 13,
+    "material": "linen",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A sport green rain jacket made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1126",
+    "name": "Red Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 82.75,
+    "stock": 18,
+    "material": "wool blend",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A outdoor red rain jacket made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1127",
+    "name": "Grey Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 86.0,
+    "stock": 23,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A minimal grey rain jacket made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1128",
+    "name": "Blue Rain Jacket",
+    "category": "jackets",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 89.25,
+    "stock": 28,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear blue rain jacket made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1129",
+    "name": "Black Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 78.5,
+    "stock": 0,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear black bomber jacket made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1130",
+    "name": "Navy Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 81.75,
+    "stock": 5,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual navy bomber jacket made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1131",
+    "name": "White Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 85.0,
+    "stock": 10,
+    "material": "denim",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart white bomber jacket made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1132",
+    "name": "Beige Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 88.25,
+    "stock": 15,
+    "material": "linen",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A sport beige bomber jacket made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1133",
+    "name": "Green Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 91.5,
+    "stock": 20,
+    "material": "wool blend",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A outdoor green bomber jacket made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1134",
+    "name": "Red Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 94.75,
+    "stock": 25,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A minimal red bomber jacket made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1135",
+    "name": "Grey Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 98.0,
+    "stock": 30,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear grey bomber jacket made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1136",
+    "name": "Blue Bomber Jacket",
+    "category": "jackets",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 101.25,
+    "stock": 4,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual blue bomber jacket made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1137",
+    "name": "Black Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 90.5,
+    "stock": 7,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual black denim jacket made from recycled polyester for all-season wear."
+  },
+  {
+    "sku": "FSH-1138",
+    "name": "Navy Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 93.75,
+    "stock": 12,
+    "material": "denim",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart navy denim jacket made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1139",
+    "name": "White Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 97.0,
+    "stock": 17,
+    "material": "linen",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A sport white denim jacket made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1140",
+    "name": "Beige Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 100.25,
+    "stock": 22,
+    "material": "wool blend",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A outdoor beige denim jacket made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1141",
+    "name": "Green Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 103.5,
+    "stock": 27,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A minimal green denim jacket made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1142",
+    "name": "Red Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 106.75,
+    "stock": 1,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear red denim jacket made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1143",
+    "name": "Grey Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 110.0,
+    "stock": 6,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual grey denim jacket made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1144",
+    "name": "Blue Denim Jacket",
+    "category": "jackets",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 113.25,
+    "stock": 11,
+    "material": "denim",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart blue denim jacket made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1145",
+    "name": "Black Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 74.0,
+    "stock": 4,
+    "material": "cotton",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual black wool coat made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1146",
+    "name": "Navy Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 77.25,
+    "stock": 9,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart navy wool coat made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1147",
+    "name": "White Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 80.5,
+    "stock": 14,
+    "material": "denim",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport white wool coat made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1148",
+    "name": "Beige Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 83.75,
+    "stock": 19,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor beige wool coat made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1149",
+    "name": "Green Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 87.0,
+    "stock": 24,
+    "material": "wool blend",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A minimal green wool coat made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1150",
+    "name": "Red Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 90.25,
+    "stock": 29,
+    "material": "nylon",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A streetwear red wool coat made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1151",
+    "name": "Grey Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 93.5,
+    "stock": 3,
+    "material": "cotton",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual grey wool coat made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1152",
+    "name": "Blue Wool Coat",
+    "category": "coats",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 96.75,
+    "stock": 8,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart blue wool coat made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1153",
+    "name": "Black Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 86.0,
+    "stock": 11,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart black puffer coat made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1154",
+    "name": "Navy Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 89.25,
+    "stock": 16,
+    "material": "denim",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport navy puffer coat made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1155",
+    "name": "White Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 92.5,
+    "stock": 21,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor white puffer coat made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1156",
+    "name": "Beige Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 95.75,
+    "stock": 26,
+    "material": "wool blend",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A minimal beige puffer coat made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1157",
+    "name": "Green Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 99.0,
+    "stock": 0,
+    "material": "nylon",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A streetwear green puffer coat made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1158",
+    "name": "Red Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 102.25,
+    "stock": 5,
+    "material": "cotton",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual red puffer coat made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1159",
+    "name": "Grey Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 105.5,
+    "stock": 10,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart grey puffer coat made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1160",
+    "name": "Blue Puffer Coat",
+    "category": "coats",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 108.75,
+    "stock": 15,
+    "material": "denim",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport blue puffer coat made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1161",
+    "name": "Black Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 98.0,
+    "stock": 18,
+    "material": "denim",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport black trench coat made from denim for spring wear."
+  },
+  {
+    "sku": "FSH-1162",
+    "name": "Navy Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 101.25,
+    "stock": 23,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor navy trench coat made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1163",
+    "name": "White Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 104.5,
+    "stock": 28,
+    "material": "wool blend",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A minimal white trench coat made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1164",
+    "name": "Beige Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 107.75,
+    "stock": 2,
+    "material": "nylon",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "insulated",
+      "waterproof"
+    ],
+    "description": "A streetwear beige trench coat made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1165",
+    "name": "Green Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 111.0,
+    "stock": 7,
+    "material": "cotton",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A casual green trench coat made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1166",
+    "name": "Red Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 114.25,
+    "stock": 12,
+    "material": "recycled polyester",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A smart red trench coat made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1167",
+    "name": "Grey Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 117.5,
+    "stock": 17,
+    "material": "denim",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A sport grey trench coat made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1168",
+    "name": "Blue Trench Coat",
+    "category": "coats",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 120.75,
+    "stock": 22,
+    "material": "linen",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A outdoor blue trench coat made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1169",
+    "name": "Black Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 81.5,
+    "stock": 15,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport black zip hoodie made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1170",
+    "name": "Navy Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 84.75,
+    "stock": 20,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor navy zip hoodie made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1171",
+    "name": "White Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 88.0,
+    "stock": 25,
+    "material": "linen",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal white zip hoodie made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1172",
+    "name": "Beige Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 91.25,
+    "stock": 30,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear beige zip hoodie made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1173",
+    "name": "Green Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 94.5,
+    "stock": 4,
+    "material": "nylon",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A casual green zip hoodie made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1174",
+    "name": "Red Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 97.75,
+    "stock": 9,
+    "material": "cotton",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A smart red zip hoodie made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1175",
+    "name": "Grey Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 101.0,
+    "stock": 14,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport grey zip hoodie made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1176",
+    "name": "Blue Zip Hoodie",
+    "category": "hoodies",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 104.25,
+    "stock": 19,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor blue zip hoodie made from denim for winter wear."
+  },
+  {
+    "sku": "FSH-1177",
+    "name": "Black Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 93.5,
+    "stock": 22,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor black classic hoodie made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1178",
+    "name": "Navy Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 96.75,
+    "stock": 27,
+    "material": "linen",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal navy classic hoodie made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1179",
+    "name": "White Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 100.0,
+    "stock": 1,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear white classic hoodie made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1180",
+    "name": "Beige Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 103.25,
+    "stock": 6,
+    "material": "nylon",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A casual beige classic hoodie made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1181",
+    "name": "Green Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 106.5,
+    "stock": 11,
+    "material": "cotton",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A smart green classic hoodie made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1182",
+    "name": "Red Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 109.75,
+    "stock": 16,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport red classic hoodie made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1183",
+    "name": "Grey Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 113.0,
+    "stock": 21,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor grey classic hoodie made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1184",
+    "name": "Blue Classic Hoodie",
+    "category": "hoodies",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 116.25,
+    "stock": 26,
+    "material": "linen",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal blue classic hoodie made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1185",
+    "name": "Black Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 105.5,
+    "stock": 29,
+    "material": "linen",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal black performance hoodie made from linen for summer wear."
+  },
+  {
+    "sku": "FSH-1186",
+    "name": "Navy Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 108.75,
+    "stock": 3,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear navy performance hoodie made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1187",
+    "name": "White Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 112.0,
+    "stock": 8,
+    "material": "nylon",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A casual white performance hoodie made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1188",
+    "name": "Beige Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 115.25,
+    "stock": 13,
+    "material": "cotton",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A smart beige performance hoodie made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1189",
+    "name": "Green Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 118.5,
+    "stock": 18,
+    "material": "recycled polyester",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A sport green performance hoodie made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1190",
+    "name": "Red Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 121.75,
+    "stock": 23,
+    "material": "denim",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A outdoor red performance hoodie made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1191",
+    "name": "Grey Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 125.0,
+    "stock": 28,
+    "material": "linen",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A minimal grey performance hoodie made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1192",
+    "name": "Blue Performance Hoodie",
+    "category": "hoodies",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 128.25,
+    "stock": 2,
+    "material": "wool blend",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A streetwear blue performance hoodie made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1193",
+    "name": "Black Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 89.0,
+    "stock": 26,
+    "material": "denim",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal black crew sweater made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1194",
+    "name": "Navy Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 92.25,
+    "stock": 0,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear navy crew sweater made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1195",
+    "name": "White Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 95.5,
+    "stock": 5,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual white crew sweater made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1196",
+    "name": "Beige Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 98.75,
+    "stock": 10,
+    "material": "nylon",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A smart beige crew sweater made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1197",
+    "name": "Green Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 102.0,
+    "stock": 15,
+    "material": "cotton",
+    "style": "sport",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A sport green crew sweater made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1198",
+    "name": "Red Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 105.25,
+    "stock": 20,
+    "material": "recycled polyester",
+    "style": "outdoor",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A outdoor red crew sweater made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1199",
+    "name": "Grey Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 108.5,
+    "stock": 25,
+    "material": "denim",
+    "style": "minimal",
+    "season": "winter",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal grey crew sweater made from denim for winter wear."
+  },
+  {
+    "sku": "FSH-1200",
+    "name": "Blue Crew Sweater",
+    "category": "sweaters",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 111.75,
+    "stock": 30,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "all-season",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear blue crew sweater made from linen for all-season wear."
+  },
+  {
+    "sku": "FSH-1201",
+    "name": "Black Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 101.0,
+    "stock": 2,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear black cable sweater made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1202",
+    "name": "Navy Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 104.25,
+    "stock": 7,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual navy cable sweater made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1203",
+    "name": "White Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 107.5,
+    "stock": 12,
+    "material": "nylon",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A smart white cable sweater made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1204",
+    "name": "Beige Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 110.75,
+    "stock": 17,
+    "material": "cotton",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A sport beige cable sweater made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1205",
+    "name": "Green Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 114.0,
+    "stock": 22,
+    "material": "recycled polyester",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A outdoor green cable sweater made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1206",
+    "name": "Red Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 117.25,
+    "stock": 27,
+    "material": "denim",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal red cable sweater made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1207",
+    "name": "Grey Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 120.5,
+    "stock": 1,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear grey cable sweater made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1208",
+    "name": "Blue Cable Sweater",
+    "category": "sweaters",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 123.75,
+    "stock": 6,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual blue cable sweater made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1209",
+    "name": "Black Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 113.0,
+    "stock": 9,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual black fine knit sweater made from wool blend for autumn wear."
+  },
+  {
+    "sku": "FSH-1210",
+    "name": "Navy Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 116.25,
+    "stock": 14,
+    "material": "nylon",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A smart navy fine knit sweater made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1211",
+    "name": "White Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 119.5,
+    "stock": 19,
+    "material": "cotton",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A sport white fine knit sweater made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1212",
+    "name": "Beige Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 122.75,
+    "stock": 24,
+    "material": "recycled polyester",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A outdoor beige fine knit sweater made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1213",
+    "name": "Green Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 126.0,
+    "stock": 29,
+    "material": "denim",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A minimal green fine knit sweater made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1214",
+    "name": "Red Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 129.25,
+    "stock": 3,
+    "material": "linen",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A streetwear red fine knit sweater made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1215",
+    "name": "Grey Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 132.5,
+    "stock": 8,
+    "material": "wool blend",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A casual grey fine knit sweater made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1216",
+    "name": "Blue Fine Knit Sweater",
+    "category": "sweaters",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 135.75,
+    "stock": 13,
+    "material": "nylon",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A smart blue fine knit sweater made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1217",
+    "name": "Black Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 96.5,
+    "stock": 6,
+    "material": "linen",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual black wrap dress made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1218",
+    "name": "Navy Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 99.75,
+    "stock": 11,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart navy wrap dress made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1219",
+    "name": "White Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 103.0,
+    "stock": 16,
+    "material": "nylon",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport white wrap dress made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1220",
+    "name": "Beige Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 106.25,
+    "stock": 21,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor beige wrap dress made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1221",
+    "name": "Green Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 109.5,
+    "stock": 26,
+    "material": "recycled polyester",
+    "style": "minimal",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A minimal green wrap dress made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1222",
+    "name": "Red Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 112.75,
+    "stock": 0,
+    "material": "denim",
+    "style": "streetwear",
+    "season": "winter",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A streetwear red wrap dress made from denim for winter wear."
+  },
+  {
+    "sku": "FSH-1223",
+    "name": "Grey Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 116.0,
+    "stock": 5,
+    "material": "linen",
+    "style": "casual",
+    "season": "all-season",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual grey wrap dress made from linen for all-season wear."
+  },
+  {
+    "sku": "FSH-1224",
+    "name": "Blue Wrap Dress",
+    "category": "dresses",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 119.25,
+    "stock": 10,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "spring",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart blue wrap dress made from wool blend for spring wear."
+  },
+  {
+    "sku": "FSH-1225",
+    "name": "Black Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 108.5,
+    "stock": 13,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart black midi dress made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1226",
+    "name": "Navy Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 111.75,
+    "stock": 18,
+    "material": "nylon",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport navy midi dress made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1227",
+    "name": "White Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 115.0,
+    "stock": 23,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor white midi dress made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1228",
+    "name": "Beige Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 118.25,
+    "stock": 28,
+    "material": "recycled polyester",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A minimal beige midi dress made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1229",
+    "name": "Green Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 121.5,
+    "stock": 2,
+    "material": "denim",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A streetwear green midi dress made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1230",
+    "name": "Red Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 124.75,
+    "stock": 7,
+    "material": "linen",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual red midi dress made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1231",
+    "name": "Grey Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 128.0,
+    "stock": 12,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart grey midi dress made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1232",
+    "name": "Blue Midi Dress",
+    "category": "dresses",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 131.25,
+    "stock": 17,
+    "material": "nylon",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport blue midi dress made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1233",
+    "name": "Black Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 120.5,
+    "stock": 20,
+    "material": "nylon",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport black shirt dress made from nylon for winter wear."
+  },
+  {
+    "sku": "FSH-1234",
+    "name": "Navy Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 123.75,
+    "stock": 25,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor navy shirt dress made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1235",
+    "name": "White Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 127.0,
+    "stock": 30,
+    "material": "recycled polyester",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A minimal white shirt dress made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1236",
+    "name": "Beige Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 130.25,
+    "stock": 4,
+    "material": "denim",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A streetwear beige shirt dress made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1237",
+    "name": "Green Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 133.5,
+    "stock": 9,
+    "material": "linen",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A casual green shirt dress made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1238",
+    "name": "Red Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 136.75,
+    "stock": 14,
+    "material": "wool blend",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A smart red shirt dress made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1239",
+    "name": "Grey Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 140.0,
+    "stock": 19,
+    "material": "nylon",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A sport grey shirt dress made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1240",
+    "name": "Blue Shirt Dress",
+    "category": "dresses",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 143.25,
+    "stock": 24,
+    "material": "cotton",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A outdoor blue shirt dress made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1241",
+    "name": "Black Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 104.0,
+    "stock": 17,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport black pleated skirt made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1242",
+    "name": "Navy Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 107.25,
+    "stock": 22,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor navy pleated skirt made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1243",
+    "name": "White Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 110.5,
+    "stock": 27,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal white pleated skirt made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1244",
+    "name": "Beige Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 113.75,
+    "stock": 1,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear beige pleated skirt made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1245",
+    "name": "Green Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 117.0,
+    "stock": 6,
+    "material": "denim",
+    "style": "casual",
+    "season": "winter",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A casual green pleated skirt made from denim for winter wear."
+  },
+  {
+    "sku": "FSH-1246",
+    "name": "Red Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 120.25,
+    "stock": 11,
+    "material": "linen",
+    "style": "smart",
+    "season": "all-season",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A smart red pleated skirt made from linen for all-season wear."
+  },
+  {
+    "sku": "FSH-1247",
+    "name": "Grey Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 123.5,
+    "stock": 16,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "spring",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport grey pleated skirt made from wool blend for spring wear."
+  },
+  {
+    "sku": "FSH-1248",
+    "name": "Blue Pleated Skirt",
+    "category": "skirts",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 126.75,
+    "stock": 21,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "summer",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor blue pleated skirt made from nylon for summer wear."
+  },
+  {
+    "sku": "FSH-1249",
+    "name": "Black Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 116.0,
+    "stock": 24,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor black denim skirt made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1250",
+    "name": "Navy Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 119.25,
+    "stock": 29,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal navy denim skirt made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1251",
+    "name": "White Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 122.5,
+    "stock": 3,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear white denim skirt made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1252",
+    "name": "Beige Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 125.75,
+    "stock": 8,
+    "material": "denim",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A casual beige denim skirt made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1253",
+    "name": "Green Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 129.0,
+    "stock": 13,
+    "material": "linen",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A smart green denim skirt made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1254",
+    "name": "Red Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 132.25,
+    "stock": 18,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport red denim skirt made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1255",
+    "name": "Grey Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 135.5,
+    "stock": 23,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor grey denim skirt made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1256",
+    "name": "Blue Denim Skirt",
+    "category": "skirts",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 138.75,
+    "stock": 28,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal blue denim skirt made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1257",
+    "name": "Black A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 128.0,
+    "stock": 0,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal black a-line skirt made from cotton for all-season wear."
+  },
+  {
+    "sku": "FSH-1258",
+    "name": "Navy A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 131.25,
+    "stock": 5,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear navy a-line skirt made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1259",
+    "name": "White A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 134.5,
+    "stock": 10,
+    "material": "denim",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A casual white a-line skirt made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1260",
+    "name": "Beige A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 137.75,
+    "stock": 15,
+    "material": "linen",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A smart beige a-line skirt made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1261",
+    "name": "Green A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 141.0,
+    "stock": 20,
+    "material": "wool blend",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A sport green a-line skirt made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1262",
+    "name": "Red A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 144.25,
+    "stock": 25,
+    "material": "nylon",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A outdoor red a-line skirt made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1263",
+    "name": "Grey A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 147.5,
+    "stock": 30,
+    "material": "cotton",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A minimal grey a-line skirt made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1264",
+    "name": "Blue A-Line Skirt",
+    "category": "skirts",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 150.75,
+    "stock": 4,
+    "material": "recycled polyester",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A streetwear blue a-line skirt made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1265",
+    "name": "Black Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 111.5,
+    "stock": 28,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A minimal black chino shorts made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1266",
+    "name": "Navy Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 114.75,
+    "stock": 2,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear navy chino shorts made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1267",
+    "name": "White Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 118.0,
+    "stock": 7,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual white chino shorts made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1268",
+    "name": "Beige Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 121.25,
+    "stock": 12,
+    "material": "denim",
+    "style": "smart",
+    "season": "winter",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart beige chino shorts made from denim for winter wear."
+  },
+  {
+    "sku": "FSH-1269",
+    "name": "Green Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 124.5,
+    "stock": 17,
+    "material": "linen",
+    "style": "sport",
+    "season": "all-season",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A sport green chino shorts made from linen for all-season wear."
+  },
+  {
+    "sku": "FSH-1270",
+    "name": "Red Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 127.75,
+    "stock": 22,
+    "material": "wool blend",
+    "style": "outdoor",
+    "season": "spring",
+    "features": [
+      "breathable"
+    ],
+    "description": "A outdoor red chino shorts made from wool blend for spring wear."
+  },
+  {
+    "sku": "FSH-1271",
+    "name": "Grey Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 131.0,
+    "stock": 27,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "summer",
+    "features": [
+      "insulated"
+    ],
+    "description": "A minimal grey chino shorts made from nylon for summer wear."
+  },
+  {
+    "sku": "FSH-1272",
+    "name": "Blue Chino Shorts",
+    "category": "shorts",
+    "audience": "unisex",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 134.25,
+    "stock": 1,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "autumn",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear blue chino shorts made from cotton for autumn wear."
+  },
+  {
+    "sku": "FSH-1273",
+    "name": "Black Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 123.5,
+    "stock": 4,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear black running shorts made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1274",
+    "name": "Navy Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 126.75,
+    "stock": 9,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual navy running shorts made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1275",
+    "name": "White Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 130.0,
+    "stock": 14,
+    "material": "denim",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart white running shorts made from denim for autumn wear."
+  },
+  {
+    "sku": "FSH-1276",
+    "name": "Beige Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 133.25,
+    "stock": 19,
+    "material": "linen",
+    "style": "sport",
+    "season": "winter",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A sport beige running shorts made from linen for winter wear."
+  },
+  {
+    "sku": "FSH-1277",
+    "name": "Green Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 136.5,
+    "stock": 24,
+    "material": "wool blend",
+    "style": "outdoor",
+    "season": "all-season",
+    "features": [
+      "breathable"
+    ],
+    "description": "A outdoor green running shorts made from wool blend for all-season wear."
+  },
+  {
+    "sku": "FSH-1278",
+    "name": "Red Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 139.75,
+    "stock": 29,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "spring",
+    "features": [
+      "insulated"
+    ],
+    "description": "A minimal red running shorts made from nylon for spring wear."
+  },
+  {
+    "sku": "FSH-1279",
+    "name": "Grey Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 143.0,
+    "stock": 3,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "summer",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear grey running shorts made from cotton for summer wear."
+  },
+  {
+    "sku": "FSH-1280",
+    "name": "Blue Running Shorts",
+    "category": "shorts",
+    "audience": "women",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 146.25,
+    "stock": 8,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "autumn",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual blue running shorts made from recycled polyester for autumn wear."
+  },
+  {
+    "sku": "FSH-1281",
+    "name": "Black Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 135.5,
+    "stock": 11,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "spring",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual black cargo shorts made from recycled polyester for spring wear."
+  },
+  {
+    "sku": "FSH-1282",
+    "name": "Navy Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 138.75,
+    "stock": 16,
+    "material": "denim",
+    "style": "smart",
+    "season": "summer",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart navy cargo shorts made from denim for summer wear."
+  },
+  {
+    "sku": "FSH-1283",
+    "name": "White Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "white",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 142.0,
+    "stock": 21,
+    "material": "linen",
+    "style": "sport",
+    "season": "autumn",
+    "features": [
+      "water-resistant"
+    ],
+    "description": "A sport white cargo shorts made from linen for autumn wear."
+  },
+  {
+    "sku": "FSH-1284",
+    "name": "Beige Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 145.25,
+    "stock": 26,
+    "material": "wool blend",
+    "style": "outdoor",
+    "season": "winter",
+    "features": [
+      "breathable"
+    ],
+    "description": "A outdoor beige cargo shorts made from wool blend for winter wear."
+  },
+  {
+    "sku": "FSH-1285",
+    "name": "Green Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 148.5,
+    "stock": 0,
+    "material": "nylon",
+    "style": "minimal",
+    "season": "all-season",
+    "features": [
+      "insulated"
+    ],
+    "description": "A minimal green cargo shorts made from nylon for all-season wear."
+  },
+  {
+    "sku": "FSH-1286",
+    "name": "Red Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 151.75,
+    "stock": 5,
+    "material": "cotton",
+    "style": "streetwear",
+    "season": "spring",
+    "features": [
+      "easy-care"
+    ],
+    "description": "A streetwear red cargo shorts made from cotton for spring wear."
+  },
+  {
+    "sku": "FSH-1287",
+    "name": "Grey Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "grey",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 155.0,
+    "stock": 10,
+    "material": "recycled polyester",
+    "style": "casual",
+    "season": "summer",
+    "features": [
+      "stretch"
+    ],
+    "description": "A casual grey cargo shorts made from recycled polyester for summer wear."
+  },
+  {
+    "sku": "FSH-1288",
+    "name": "Blue Cargo Shorts",
+    "category": "shorts",
+    "audience": "men",
+    "color": "blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "price_eur": 158.25,
+    "stock": 15,
+    "material": "denim",
+    "style": "smart",
+    "season": "autumn",
+    "features": [
+      "lightweight"
+    ],
+    "description": "A smart blue cargo shorts made from denim for autumn wear."
+  }
+]
