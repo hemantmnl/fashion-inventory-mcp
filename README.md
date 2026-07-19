@@ -6,7 +6,7 @@ and uses OpenAI to interpret natural-language shopping requirements.
 ## Important files
 
 - `cloud_agent.py`: MCP server, inventory search tools, and cloud AI agent.
-- `data/inventory.json`: 288 fictional fashion items.
+- `data/inventory.json`: 930 fictional fashion items across 31 categories.
 - `generate_inventory.py`: reproducibly rebuilds the inventory file.
 - `railway.json`: Railway start command.
 - `.env.example`: required variable names without real secrets.
@@ -17,6 +17,10 @@ The cloud AI translates language such as "black waterproof-style jacket in mediu
 under 150 euros" into arguments for `search_inventory`. Python—not AI—filters the
 flat file and returns exact products, prices, sizes, and stock. The AI then selects
 and explains matches without inventing inventory.
+
+It also exposes `recommend_matching_items`. For a question such as "what trousers go
+with a navy shirt?", the cloud AI obtains approved color pairings, searches real
+trouser stock, and returns only available SKUs.
 
 ## Run locally on Mac
 
