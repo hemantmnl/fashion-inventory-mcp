@@ -35,17 +35,6 @@ CATEGORY_ALIASES = {
     "tshirt": "t-shirts",
     "t-shirt": "t-shirts",
     "polo": "polo-shirts",
-    # Generic outfit-slot words the AI (or a customer) might use directly
-    # instead of an exact catalog category name -- this is what was
-    # silently causing "no tops/bottoms found" even when in-stock items
-    # existed: "top"/"bottom" have no mapping, so _contains() failed to
-    # match anything.
-    "top": "shirts",
-    "tops": "shirts",
-    "bottom": "trousers",
-    "bottoms": "trousers",
-    "footwear": "shoes",
-    "sneaker": "sneakers",
 }
 
 COLOR_PAIRINGS = {
@@ -275,16 +264,11 @@ inventory_specialist = Agent(
     model=os.environ.get("CLOUD_OPENAI_MODEL", "gpt-4.1-mini"),
     instructions=(
         "You are a read-only fashion inventory specialist. Always call "
-        "search_inventory for single-product requests and get_inventory_summary for "
-        "stock overview questions. For outfit coordination or 'what goes with this?' "
-        "questions about ONE additional item, call get_matching_colors first, then "
-        "search_inventory to verify actual in-stock products. For a COMPLETE outfit "
-        "(top+bottom+shoes) under one combined budget, call build_outfit_bundles "
-        "DIRECTLY on your first tool call -- do not call search_inventory or "
-        "get_matching_colors first for that case, they are unnecessary and waste "
-        "turns. Translate synonyms carefully: medium=M, small=S, "
-        "large=L, trousers=pants, trainers=sneakers, men's=men, women's=women, "
-        "top=shirts, bottom=trousers. Use "
+        "search_inventory for product requests and get_inventory_summary for stock "
+        "overview questions. For outfit coordination, call get_matching_colors first, "
+        "then call search_inventory to verify actual in-stock products. Translate "
+        "synonyms carefully: medium=M, small=S, "
+        "large=L, trousers=pants, trainers=sneakers, men's=men, women's=women. Use "
         "feature filters for requirements such as waterproof or stretch. Use only "
         "tool results and never "
         "invent products, sizes, prices, or stock. Return valid JSON only, shaped as "
@@ -340,21 +324,15 @@ async def find_fashion_items(
     )
 
     # CLOUD OPENAI API CALL: the model chooses deterministic inventory tools.
-    try:
-        result = await Runner.run(inventory_specialist, prompt, max_turns=8)
-        return result.final_output
-    except Exception as e:
-        return json.dumps({"matches": [], "message": f"Search failed internally: {e}"})
+    result = await Runner.run(inventory_specialist, prompt, max_turns=8)
+    return result.final_output
 
 
 @mcp.tool()
 async def ask_inventory_overview(question: str) -> str:
     """Ask the cloud AI a read-only question about overall inventory."""
-    try:
-        result = await Runner.run(inventory_specialist, question, max_turns=5)
-        return result.final_output
-    except Exception as e:
-        return json.dumps({"matches": [], "message": f"Overview failed internally: {e}"})
+    result = await Runner.run(inventory_specialist, question, max_turns=5)
+    return result.final_output
 
 
 @mcp.tool()
@@ -389,11 +367,8 @@ async def recommend_matching_items(
         "reason in the top-level message."
     )
 
-    try:
-        result = await Runner.run(inventory_specialist, prompt, max_turns=10)
-        return result.final_output
-    except Exception as e:
-        return json.dumps({"matches": [], "message": f"Recommendation failed internally: {e}"})
+    result = await Runner.run(inventory_specialist, prompt, max_turns=10)
+    return result.final_output
 
 
 @mcp.tool()
@@ -414,28 +389,16 @@ async def recommend_outfit_bundle(
         f"Combined budget for all three items: EUR {total_budget_eur:.2f}\n"
         f"Previously selected SKUs to preserve when possible: {preferred_skus or []}\n"
         f"Return at most {max(1, min(max_results, 5))} outfits.\n"
-        "Call build_outfit_bundles ONCE, on your first tool call, with the "
-        "top/bottom/shoe categories, audience and sizes extracted directly "
-        "from the requirement -- do NOT call search_inventory or "
-        "get_matching_colors first, they are unnecessary for this request "
-        "and will waste turns. Pass the total budget and preferred SKUs to "
-        "the tool. Return valid JSON shaped as "
+        "You must call build_outfit_bundles. Extract the top, bottom and footwear "
+        "categories, audience and sizes from the requirement. Pass the total budget "
+        "and preferred SKUs to the tool. Return valid JSON shaped as "
         "{\"matches\": [...], \"message\": \"...\"}. Use only returned bundles. "
         "For each outfit include top, bottom, shoes, total_price_eur and "
-        "remaining_budget_eur. Never claim no stock without calling the "
-        "bundle tool first."
+        "remaining_budget_eur. Never claim no stock without calling the bundle tool."
     )
 
-    try:
-        result = await Runner.run(inventory_specialist, prompt, max_turns=10)
-        return result.final_output
-    except Exception as e:
-        # Surface a clear, honest error instead of letting a vague failure
-        # get paraphrased into something misleading downstream.
-        return json.dumps({
-            "matches": [],
-            "message": f"Bundle search failed internally: {e}",
-        })
+    result = await Runner.run(inventory_specialist, prompt, max_turns=6)
+    return result.final_output
 
 
 if __name__ == "__main__":

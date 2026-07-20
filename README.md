@@ -61,3 +61,9 @@ Do not define `PORT`; Railway supplies it. Generate a public domain. The MCP end
 will be `https://YOUR-SERVICE.up.railway.app/mcp`.
 
 See the parent `OVERVIEW_AND_SETUP.md` for the complete two-project walkthrough.
+
+
+git status
+git add cloud_agent.py generate_inventory.py data/inventory.json README.md
+git commit -m "Add complete catalog and outfit recommendations"
+git push origin main
